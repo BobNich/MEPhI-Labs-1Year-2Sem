@@ -1,0 +1,1738 @@
+Toronto;43;-80;1
+Montreal;45;-74;2
+Vancouver;49;-124;3
+Calgary;51;-115;4
+Edmonton;53;-114;5
+Ottawa;45;-76;6
+Mississauga;43;-80;7
+Winnipeg;49;-98;8
+Quebec City;46;-72;9
+Hamilton;43;-80;10
+Brampton;43;-80;11
+Surrey;49;-123;12
+Kitchener;43;-81;13
+Laval;45;-74;14
+Halifax;44;-64;15
+London;42;-82;16
+Victoria;48;-124;17
+Markham;43;-80;18
+St. Catharines;43;-80;19
+Niagara Falls;43;-80;20
+Vaughan;43;-80;21
+Gatineau;45;-76;22
+Windsor;42;-83;23
+Saskatoon;52;-107;24
+Longueuil;45;-74;25
+Burnaby;49;-123;26
+Regina;50;-105;27
+Richmond;49;-124;28
+Richmond Hill;43;-80;29
+Oakville;43;-80;30
+Burlington;43;-80;31
+Barrie;44;-80;32
+Oshawa;43;-79;33
+Sherbrooke;45;-72;34
+Saguenay;48;-72;35
+Levis;46;-72;36
+Kelowna;49;-120;37
+Abbotsford;49;-123;38
+Coquitlam;49;-123;39
+Trois-Rivieres;46;-73;40
+Guelph;43;-81;41
+Cambridge;43;-81;42
+Whitby;43;-79;43
+Ajax;43;-80;44
+Langley;49;-123;45
+Saanich;48;-124;46
+Terrebonne;45;-74;47
+Milton;43;-80;48
+St. John's;47;-53;49
+Moncton;46;-65;50
+Thunder Bay;48;-90;51
+Dieppe;46;-65;52
+Waterloo;43;-81;53
+Delta;49;-124;54
+Chatham;42;-83;55
+Red Deer;52;-114;56
+Kamloops;50;-121;57
+Brantford;43;-81;58
+Cape Breton;46;-61;59
+Lethbridge;49;-113;60
+Saint-Jean-sur-Richelieu;45;-74;61
+Clarington;43;-79;62
+Pickering;43;-80;63
+Nanaimo;49;-124;64
+Sudbury;46;-82;65
+North Vancouver;49;-124;66
+Brossard;45;-74;67
+Repentigny;45;-74;68
+Newmarket;44;-80;69
+Chilliwack;49;-122;70
+White Rock;49;-123;71
+Maple Ridge;49;-123;72
+Peterborough;44;-79;73
+Kawartha Lakes;44;-79;74
+Prince George;53;-123;75
+Sault Ste. Marie;46;-85;76
+Sarnia;42;-83;77
+Wood Buffalo;57;-112;78
+New Westminster;49;-123;79
+Chateauguay;45;-74;80
+Saint-Jerome;45;-74;81
+Drummondville;45;-73;82
+Saint John;45;-67;83
+Caledon;43;-80;84
+St. Albert;53;-114;85
+Granby;45;-73;86
+Medicine Hat;50;-111;87
+Grande Prairie;55;-119;88
+St. Thomas;42;-82;89
+Airdrie;51;-115;90
+Halton Hills;43;-80;91
+Saint-Hyacinthe;45;-73;92
+Lac-Brome;45;-73;93
+Port Coquitlam;49;-123;94
+Fredericton;45;-67;95
+Blainville;45;-74;96
+Aurora;44;-80;97
+Welland;42;-80;98
+North Bay;46;-80;99
+Beloeil;45;-74;100
+Belleville;44;-78;101
+Mirabel;45;-75;102
+Shawinigan;46;-73;103
+Dollard-des-Ormeaux;45;-74;104
+Brandon;49;-100;105
+Rimouski;48;-69;106
+Cornwall;45;-75;107
+Stouffville;43;-80;108
+Georgina;44;-80;109
+Victoriaville;46;-72;110
+Vernon;50;-120;111
+Duncan;48;-124;112
+Saint-Eustache;45;-74;113
+Quinte West;44;-78;114
+Charlottetown;46;-64;115
+Mascouche;45;-74;116
+West Vancouver;49;-124;117
+Salaberry-de-Valleyfield;45;-75;118
+Rouyn-Noranda;48;-80;119
+Timmins;48;-82;120
+Sorel-Tracy;46;-74;121
+New Tecumseth;44;-80;122
+Woodstock;43;-81;123
+Boucherville;45;-74;124
+Mission;49;-123;125
+Vaudreuil-Dorion;45;-75;126
+Brant;43;-81;127
+Lakeshore;42;-83;128
+Innisfil;44;-80;129
+Prince Albert;53;-106;130
+Langford Station;48;-124;131
+Bradford West Gwillimbury;44;-80;132
+Campbell River;50;-126;133
+Spruce Grove;53;-114;134
+Moose Jaw;50;-106;135
+Penticton;49;-120;136
+Port Moody;49;-123;137
+Leamington;42;-83;138
+East Kelowna;49;-120;139
+Cote-Saint-Luc;45;-74;140
+Val-d'Or;48;-78;141
+Owen Sound;44;-81;142
+Stratford;43;-81;143
+Lloydminster;53;-111;144
+Pointe-Claire;45;-74;145
+Orillia;44;-80;146
+Alma;48;-72;147
+Orangeville;43;-81;148
+Fort Erie;42;-80;149
+LaSalle;42;-84;150
+Sainte-Julie;45;-74;151
+Leduc;53;-114;152
+North Cowichan;48;-124;153
+Chambly;45;-74;154
+Okotoks;50;-114;155
+Sept-Iles;50;-67;156
+Centre Wellington;43;-81;157
+Saint-Constant;45;-74;158
+Grimsby;43;-80;159
+Boisbriand;45;-74;160
+Conception Bay South;47;-53;161
+Saint-Bruno-de-Montarville;45;-74;162
+Sainte-Therese;45;-74;163
+Cochrane;51;-115;164
+Thetford Mines;46;-72;165
+Courtenay;49;-125;166
+Magog;45;-73;167
+Whitehorse;60;-136;168
+Woolwich;43;-81;169
+Clarence-Rockland;45;-76;170
+Fort Saskatchewan;53;-114;171
+East Gwillimbury;44;-80;172
+Lincoln;43;-80;173
+La Prairie;45;-74;174
+Tecumseh;42;-83;175
+Mount Pearl Park;47;-53;176
+Amherstburg;42;-84;177
+Saint-Lambert;45;-74;178
+Brockville;44;-76;179
+Collingwood;44;-81;180
+Scugog;44;-79;181
+Kingsville;42;-83;182
+Baie-Comeau;49;-69;183
+Paradise;47;-53;184
+Uxbridge;44;-80;185
+Essa;44;-80;186
+Candiac;45;-74;187
+Oro-Medonte;44;-80;188
+Varennes;45;-74;189
+Strathroy-Caradoc;42;-82;190
+Wasaga Beach;44;-81;191
+New Glasgow;45;-63;192
+Wilmot;43;-81;193
+Essex;42;-83;194
+Fort St. John;56;-121;195
+Kirkland;45;-74;196
+L'Assomption;45;-74;197
+Westmount;45;-74;198
+Saint-Lazare;45;-75;199
+Chestermere;51;-114;200
+Huntsville;45;-80;201
+Corner Brook;48;-58;202
+Riverview;46;-65;203
+Lloydminster;53;-111;204
+Joliette;46;-74;205
+Yellowknife;62;-115;206
+Squamish;49;-124;207
+Mont-Royal;45;-74;208
+Riviere-du-Loup;47;-70;209
+Cobourg;43;-79;210
+Cranbrook;49;-116;211
+Beaconsfield;45;-74;212
+Springwater;44;-80;213
+Dorval;45;-74;214
+Thorold;43;-80;215
+Camrose;53;-113;216
+South Frontenac;44;-77;217
+Pitt Meadows;49;-123;218
+Port Colborne;42;-80;219
+Quispamsis;45;-66;220
+Mont-Saint-Hilaire;45;-74;221
+Bathurst;47;-66;222
+Saint-Augustin-de-Desmaures;46;-72;223
+Oak Bay;48;-124;224
+Sainte-Marthe-sur-le-Lac;45;-74;225
+Salmon Arm;50;-120;226
+Port Alberni;49;-125;227
+Esquimalt;48;-124;228
+Deux-Montagnes;45;-74;229
+Miramichi;47;-66;230
+Niagara-on-the-Lake;43;-80;231
+Saint-Lin--Laurentides;45;-74;232
+Beaumont;53;-114;233
+Middlesex Centre;43;-82;234
+Inverness;46;-62;235
+Stony Plain;53;-115;236
+Petawawa;45;-78;237
+Pelham;43;-80;238
+Selwyn;44;-79;239
+Loyalist;44;-77;240
+Midland;44;-80;241
+Colwood;48;-124;242
+Central Saanich;48;-124;243
+Sainte-Catherine;45;-74;244
+Port Hope;43;-79;245
+L'Ancienne-Lorette;46;-72;246
+Saint-Basile-le-Grand;45;-74;247
+Swift Current;50;-108;248
+Edmundston;47;-69;249
+Russell;45;-76;250
+North Grenville;44;-76;251
+Yorkton;51;-103;252
+Tracadie;47;-65;253
+Bracebridge;45;-80;254
+Greater Napanee;44;-77;255
+Tillsonburg;42;-81;256
+Steinbach;49;-97;257
+Hanover;49;-97;258
+Terrace;54;-129;259
+Springfield;49;-97;260
+Gaspe;48;-65;261
+Kenora;49;-95;262
+Cold Lake;54;-111;263
+Summerside;46;-64;264
+Comox;49;-125;265
+Sylvan Lake;52;-115;266
+Pincourt;45;-74;267
+West Lincoln;43;-80;268
+Matane;48;-68;269
+Brooks;50;-112;270
+Sainte-Anne-des-Plaines;45;-74;271
+West Nipissing / Nipissing Ouest;46;-80;272
+Rosemere;45;-74;273
+Mistassini;48;-73;274
+Grand Falls;48;-56;275
+Clearview;44;-81;276
+St. Clair;42;-83;277
+Canmore;51;-116;278
+North Battleford;52;-109;279
+Pembroke;45;-78;280
+Mont-Laurier;46;-76;281
+Strathmore;51;-114;282
+Saugeen Shores;44;-82;283
+Thompson;55;-98;284
+Lavaltrie;45;-74;285
+High River;50;-114;286
+Severn;44;-80;287
+Sainte-Sophie;45;-74;288
+Saint-Charles-Borromee;46;-74;289
+Portage La Prairie;49;-99;290
+Thames Centre;43;-82;291
+Mississippi Mills;45;-77;292
+Powell River;49;-125;293
+South Glengarry;45;-75;294
+North Perth;43;-81;295
+Mercier;45;-74;296
+South Stormont;45;-75;297
+Saint-Colomban;45;-75;298
+Lacombe;52;-114;299
+Sooke;48;-124;300
+Dawson Creek;55;-121;301
+Lake Country;50;-120;302
+Trent Hills;44;-78;303
+Sainte-Marie;46;-72;304
+Guelph/Eramosa;43;-81;305
+Truro;45;-64;306
+Amos;48;-79;307
+The Nation / La Nation;45;-76;308
+Ingersoll;43;-81;309
+Winkler;49;-98;310
+Wetaskiwin;52;-114;311
+Central Elgin;42;-82;312
+Lachute;45;-75;313
+West Grey;44;-81;314
+Parksville;49;-125;315
+Cowansville;45;-73;316
+Becancour;46;-73;317
+Gravenhurst;44;-80;318
+Perth East;43;-81;319
+Prince Rupert;54;-131;320
+Prevost;45;-75;321
+Sainte-Adele;45;-75;322
+Kentville;45;-65;323
+Beauharnois;45;-74;324
+Les Iles-de-la-Madeleine;47;-62;325
+Wellington North;43;-81;326
+St. Andrews;50;-97;327
+Carleton Place;45;-77;328
+Whistler;50;-123;329
+Brighton;44;-78;330
+Tiny;44;-80;331
+Gander;48;-55;332
+Sidney;48;-124;333
+Rothesay;45;-66;334
+Brock;44;-80;335
+Summerland;49;-120;336
+Val-des-Monts;45;-76;337
+Tache;49;-97;338
+Montmagny;46;-71;339
+Erin;43;-81;340
+Kincardine;44;-82;341
+North Dundas;45;-76;342
+Wellesley;43;-81;343
+Estevan;49;-103;344
+North Saanich;48;-124;345
+Warman;52;-107;346
+La Tuque;48;-75;347
+Norwich;42;-81;348
+Meaford;44;-81;349
+Adjala-Tosorontio;44;-80;350
+Hamilton Township;44;-79;351
+St. Clements;50;-97;352
+Saint-Amable;45;-74;353
+Weyburn;49;-104;354
+South Dundas;44;-76;355
+L'Ile-Perrot;45;-74;356
+Notre-Dame-de-l'Ile-Perrot;45;-74;357
+Williams Lake;52;-123;358
+Elliot Lake;46;-83;359
+Cantley;45;-76;360
+Nelson;49;-118;361
+Lambton Shores;43;-82;362
+Mapleton;43;-81;363
+Georgian Bluffs;44;-82;364
+Rawdon;46;-74;365
+Campbellton;48;-67;366
+View Royal;48;-124;367
+Coldstream;50;-120;368
+Chester;44;-65;369
+Queens;44;-65;370
+Selkirk;50;-97;371
+Saint-Felicien;48;-73;372
+Hawkesbury;45;-75;373
+Roberval;48;-73;374
+Sainte-Agathe-des-Monts;46;-75;375
+North Dumfries;43;-81;376
+Rideau Lakes;44;-77;377
+Sechelt;49;-124;378
+North Glengarry;45;-75;379
+South Huron;43;-82;380
+Marieville;45;-74;381
+Tay;44;-80;382
+Temiskaming Shores;47;-80;383
+Hinton;53;-118;384
+Saint-Sauveur;45;-75;385
+Quesnel;52;-123;386
+Elizabethtown-Kitley;44;-76;387
+Morinville;53;-114;388
+Grey Highlands;44;-81;389
+Stratford;46;-64;390
+Alfred and Plantagenet;45;-75;391
+Mont-Tremblant;46;-75;392
+Martensville;52;-107;393
+Saint-Raymond;46;-72;394
+Amherst;45;-65;395
+Ramara;44;-80;396
+Bois-des-Filion;45;-74;397
+Leeds and the Thousand Islands;44;-77;398
+Carignan;45;-74;399
+Brockton;44;-82;400
+Laurentian Valley;45;-78;401
+East St. Paul;49;-98;402
+Lorraine;45;-74;403
+Sainte-Julienne;45;-74;404
+Blackfalds;52;-114;405
+Malahide;42;-81;406
+Oromocto;45;-67;407
+Olds;51;-115;408
+Huron East;43;-82;409
+Stanley;49;-99;410
+Penetanguishene;44;-80;411
+Qualicum Beach;49;-125;412
+Notre-Dame-des-Prairies;46;-74;413
+West Perth;43;-82;414
+Cavan Monaghan;44;-79;415
+Arnprior;45;-77;416
+Smiths Falls;44;-77;417
+Pont-Rouge;46;-72;418
+Champlain;45;-75;419
+Coaticook;45;-72;420
+Minto;43;-81;421
+Morden;49;-99;422
+Mono;44;-81;423
+Corman Park No. 344;52;-107;424
+Ladysmith;48;-124;425
+Bridgewater;44;-65;426
+Dauphin;51;-101;427
+Otterburn Park;45;-74;428
+Taber;49;-113;429
+South Bruce Peninsula;44;-82;430
+Edson;53;-117;431
+Farnham;45;-73;432
+Kapuskasing;49;-83;433
+La Malbaie;47;-71;434
+Renfrew;45;-77;435
+Coaldale;49;-113;436
+Portugal Cove-St. Philip's;47;-53;437
+Zorra;43;-81;438
+Kitimat;54;-129;439
+Shelburne;44;-81;440
+Happy Valley;53;-61;441
+Saint-Hippolyte;45;-75;442
+Castlegar;49;-118;443
+Church Point;44;-67;444
+Drumheller;51;-113;445
+Kirkland Lake;48;-81;446
+Argyle;43;-66;447
+Torbay;47;-53;448
+La Peche;45;-76;449
+Banff;51;-116;450
+Innisfail;52;-114;451
+Nicolet;46;-73;452
+Rockwood;50;-98;453
+Drummond/North Elmsley;44;-77;454
+Dryden;49;-93;455
+Iqaluit;63;-69;456
+Fort Frances;48;-94;457
+La Sarre;48;-80;458
+Trail;49;-118;459
+Chandler;48;-65;460
+Stone Mills;44;-77;461
+Hanover;44;-82;462
+South-West Oxford;42;-81;463
+Acton Vale;45;-73;464
+Bromont;45;-73;465
+Beckwith;45;-77;466
+Goderich;43;-82;467
+Plympton-Wyoming;43;-83;468
+Central Huron;43;-82;469
+Rigaud;45;-75;470
+Louiseville;46;-73;471
+Chibougamau;49;-75;472
+Aylmer;42;-81;473
+Delson;45;-74;474
+Kimberley;49;-116;475
+Blandford-Blenheim;43;-81;476
+Bayham;42;-81;477
+Augusta;44;-76;478
+Puslinch;43;-81;479
+Beauport;46;-72;480
+Saint-Remi;45;-74;481
+St. Marys;43;-82;482
+Drayton Valley;53;-115;483
+Ponoka;52;-114;484
+Labrador City;52;-67;485
+Donnacona;46;-72;486
+Southgate;44;-81;487
+McNab/Braeside;45;-77;488
+Macdonald;49;-98;489
+Hampstead;45;-74;490
+Baie-Saint-Paul;47;-71;491
+Merritt;50;-121;492
+Bluewater;43;-82;493
+East Zorra-Tavistock;43;-81;494
+Brownsburg;45;-75;495
+Stoneham-et-Tewkesbury;47;-72;496
+Asbestos;45;-72;497
+Huron-Kinloss;44;-82;498
+Coteau-du-Lac;45;-75;499
+The Blue Mountains;44;-81;500
+Whitewater Region;45;-77;501
+Edwardsburgh/Cardinal;44;-76;502
+Sainte-Anne-des-Monts;49;-67;503
+Old Chelsea;45;-76;504
+North Stormont;45;-75;505
+Alnwick/Haldimand;44;-79;506
+Peace River;56;-118;507
+Arran-Elderslie;44;-82;508
+Saint-Zotique;45;-75;509
+Val-Shefford;45;-73;510
+Douro-Dummer;44;-79;511
+Plessisville;46;-72;512
+Ritchot;49;-98;513
+Otonabee-South Monaghan;44;-79;514
+Shediac;46;-65;515
+Slave Lake;55;-115;516
+Port-Cartier;50;-67;517
+Saint-Lambert-de-Lauzon;46;-72;518
+Barrington;43;-66;519
+Rocky Mountain House;52;-115;520
+Chatsworth;44;-81;521
+Stephenville;48;-59;522
+Muskoka Falls;45;-80;523
+Devon;53;-114;524
+Yarmouth;43;-67;525
+Boischatel;46;-72;526
+Parry Sound;45;-81;527
+Pointe-Calumet;45;-74;528
+Beaubassin East / Beaubassin-est;46;-65;529
+Wainfleet;42;-80;530
+Cramahe;44;-78;531
+Beauceville;46;-71;532
+North Middlesex;43;-82;533
+Amqui;48;-68;534
+Sainte-Catherine-de-la-Jacques-Cartier;46;-72;535
+Clarenville;48;-54;536
+Mont-Joli;48;-69;537
+Dysart et al;45;-79;538
+Wainwright;52;-111;539
+Contrecoeur;45;-74;540
+Beresford;47;-66;541
+Saint-Joseph-du-Lac;45;-74;542
+Hope;49;-122;543
+Gimli;50;-98;544
+Douglas;46;-67;545
+Saint-Apollinaire;46;-72;546
+Hindon Hill;44;-79;547
+Les Cedres;45;-75;548
+La Broquerie;49;-97;549
+Kent;49;-122;550
+Tweed;44;-78;551
+Saint-Felix-de-Valois;46;-74;552
+Bay Roberts;47;-54;553
+Melfort;52;-105;554
+Bonnyville;54;-111;555
+Stettler;52;-113;556
+Saint-Calixte;45;-74;557
+Lac-Megantic;45;-71;558
+Perth;44;-77;559
+Oliver Paipoonge;48;-90;560
+Humboldt;52;-106;561
+Charlemagne;45;-74;562
+Pontiac;45;-77;563
+St. Paul;53;-112;564
+Petrolia;42;-83;565
+Southwest Middlesex;42;-82;566
+Front of Yonge;44;-76;567
+Vegreville;53;-113;568
+Sainte-Brigitte-de-Laval;47;-72;569
+Princeville;46;-72;570
+Vercheres;45;-74;571
+The Pas;53;-102;572
+Saint-Cesaire;45;-73;573
+La Ronge;55;-106;574
+Tay Valley;44;-77;575
+South Bruce;44;-82;576
+McMasterville;45;-74;577
+Redcliff;50;-111;578
+Crowsnest Pass;49;-115;579
+Saint-Philippe;45;-74;580
+Richelieu;45;-74;581
+Notre-Dame-du-Mont-Carmel;46;-73;582
+L'Ange-Gardien;45;-76;583
+Sainte-Martine;45;-74;584
+Saint-Pie;45;-73;585
+Peachland;49;-120;586
+Ashfield-Colborne-Wawanosh;43;-82;587
+Trent Lakes;44;-79;588
+Northern Rockies;59;-124;589
+Cookshire;45;-72;590
+West St. Paul;50;-98;591
+Windsor;45;-72;592
+L'Epiphanie;45;-74;593
+Creston;49;-117;594
+Smithers;54;-128;595
+Cornwall;46;-64;596
+Meadow Lake;54;-109;597
+Lanark Highlands;45;-77;598
+Sackville;45;-65;599
+Grand Falls;47;-68;600
+Cochrane;49;-82;601
+Marystown;47;-56;602
+Sioux Lookout;50;-92;603
+Didsbury;51;-115;604
+Saint-Honore;48;-72;605
+Fernie;49;-116;606
+Deer Lake;49;-58;607
+Woodstock;46;-68;608
+Val-David;46;-75;609
+Flin Flon;54;-102;610
+Hudson;45;-75;611
+Gananoque;44;-77;612
+Brokenhead;50;-97;613
+Saint-Paul;45;-74;614
+Burton;45;-67;615
+Spallumcheen;50;-120;616
+Westlock;54;-114;617
+Temiscouata-sur-le-Lac;47;-69;618
+Shannon;46;-72;619
+Osoyoos;49;-120;620
+Montreal-Ouest;45;-74;621
+Hearst;49;-84;622
+Saint-Henri;46;-72;623
+Ste. Anne;49;-97;624
+Antigonish;45;-62;625
+Espanola;46;-82;626
+West Elgin;42;-82;627
+Flin Flon (Part);54;-102;628
+Grand Bay-Westfield;45;-67;629
+Sainte-Anne-de-Bellevue;45;-74;630
+North Huron;43;-82;631
+Oliver;49;-120;632
+Saint-Roch-de-l'Achigan;45;-74;633
+Stirling-Rawdon;44;-78;634
+Chisasibi;53;-79;635
+Carbonear;47;-54;636
+Saint Marys;46;-67;637
+Chertsey;46;-74;638
+Armstrong;50;-120;639
+Stonewall;50;-98;640
+Shippagan;47;-65;641
+Lanoraie;45;-74;642
+Memramcook;46;-65;643
+Centre Hastings;44;-78;644
+Warwick;45;-72;645
+East Ferris;46;-80;646
+Hanwell;45;-67;647
+Saint-Joseph-de-Beauce;46;-71;648
+Metchosin;48;-124;649
+Lucan Biddulph;43;-82;650
+Riviere-Rouge;46;-75;651
+Greenstone;50;-87;652
+Saint-Mathias-sur-Richelieu;45;-74;653
+Neepawa;50;-100;654
+Gibsons;49;-124;655
+Kindersley;51;-110;656
+Jasper;52;-119;657
+Barrhead;54;-115;658
+Les Coteaux;45;-75;659
+Melville;50;-103;660
+Saint-Germain-de-Grantham;45;-73;661
+Iroquois Falls;48;-81;662
+Havelock-Belmont-Methuen;44;-78;663
+Cornwallis;49;-100;664
+Saint-Boniface;46;-73;665
+Edenwold No. 158;50;-105;666
+Coverdale;46;-65;667
+Vanderhoof;54;-125;668
+Southwold;42;-82;669
+Goulds;47;-53;670
+Saint Stephen;45;-68;671
+Waterloo;45;-73;672
+Nipawin;53;-105;673
+Neuville;46;-72;674
+Saint-Cyrille-de-Wendover;45;-73;675
+Central Frontenac;44;-77;676
+Mont-Orford;45;-73;677
+Saint-Jean-de-Matha;46;-74;678
+Seguin;45;-80;679
+Tyendinaga;44;-78;680
+Hampton;45;-66;681
+Sussex;45;-66;682
+Grand Forks;49;-119;683
+La Pocatiere;47;-71;684
+Caraquet;47;-65;685
+Saint-Etienne-des-Gres;46;-73;686
+Altona;49;-98;687
+Stellarton;45;-63;688
+Wolfville;45;-65;689
+New Maryland;45;-67;690
+Port Hardy;50;-128;691
+Saint-Donat;46;-75;692
+Chateau-Richer;46;-72;693
+Madawaska Valley;45;-78;694
+Deep River;46;-78;695
+Asphodel-Norwood;44;-79;696
+Red Lake;51;-94;697
+Metabetchouan-Lac-a-la-Croix;48;-72;698
+Berthierville;46;-74;699
+Vermilion;53;-111;700
+Niverville;49;-98;701
+Hastings Highlands;45;-78;702
+Carstairs;51;-115;703
+Danville;45;-73;704
+Channel-Port aux Basques;47;-60;705
+Battleford;52;-109;706
+Lac-Etchemin;46;-71;707
+Saint-Antonin;47;-70;708
+Saint-Jacques;45;-74;709
+Swan River;52;-102;710
+Sutton;45;-73;711
+Northern Bruce Peninsula;45;-82;712
+L'Islet-sur-Mer;47;-71;713
+Carleton-sur-Mer;48;-67;714
+Oka;45;-75;715
+Prescott;44;-76;716
+Amaranth;43;-81;717
+Marmora and Lake;44;-78;718
+Maniwaki;46;-76;719
+Morin-Heights;45;-75;720
+Dundas;46;-65;721
+Napierville;45;-74;722
+Crabtree;45;-74;723
+Bancroft;45;-78;724
+Saint-Tite;46;-73;725
+Howick;43;-82;726
+Dutton/Dunwich;42;-82;727
+Callander;46;-80;728
+Simonds;45;-66;729
+Baie-d'Urfe;45;-74;730
+New Richmond;48;-66;731
+Perth South;43;-82;732
+Roxton Pond;45;-73;733
+Sparwood;49;-115;734
+Claresholm;50;-114;735
+Breslau;43;-81;736
+Montague;44;-76;737
+Cumberland;49;-126;738
+Beaupre;47;-71;739
+Saint-Andre-Avellin;45;-76;740
+Saint-Ambroise-de-Kildare;46;-74;741
+East Angus;45;-72;742
+Rossland;49;-118;743
+Mackenzie;55;-124;744
+Golden;51;-117;745
+Raymond;49;-113;746
+Saint-Adolphe-d'Howard;45;-75;747
+Warwick;43;-82;748
+Bowen Island;49;-124;749
+Bonnechere Valley;45;-78;750
+Windsor;44;-65;751
+Pincher Creek;49;-114;752
+Alnwick;47;-66;753
+Westville;45;-63;754
+Fruitvale;49;-118;755
+Pasadena;49;-58;756
+Saint-Prosper;46;-71;757
+Ormstown;45;-74;758
+Cardston;49;-114;759
+Westbank;49;-120;760
+De Salaberry;49;-97;761
+Headingley;49;-98;762
+Grande Cache;53;-120;763
+Atholville;47;-67;764
+Saint-Agapit;46;-72;765
+Prince Albert No. 461;53;-106;766
+Casselman;45;-76;767
+Saint-Ambroise;48;-72;768
+Hay River;60;-116;769
+Mistissini;50;-74;770
+Studholm;45;-66;771
+Lumby;50;-119;772
+Saint-Faustin--Lac-Carre;46;-75;773
+Morris-Turnberry;43;-82;774
+Placentia;47;-54;775
+Saint-Pascal;47;-70;776
+Mulmur;44;-81;777
+Blind River;46;-83;778
+Dunham;45;-73;779
+Havre-Saint-Pierre;50;-64;780
+Saint-Anselme;46;-71;781
+Trois-Pistoles;48;-70;782
+Grande-Riviere;48;-65;783
+Powassan;46;-80;784
+Malartic;48;-79;785
+Bonavista;48;-54;786
+Killarney - Turtle Mountain;49;-100;787
+Woodlands;50;-98;788
+Lewisporte;49;-56;789
+Saint-Denis-de-Brompton;45;-73;790
+Invermere;50;-117;791
+Salisbury;46;-66;792
+Bifrost-Riverton;51;-98;793
+Buckland No. 491;53;-106;794
+Cartier;49;-98;795
+Sainte-Anne-des-Lacs;45;-75;796
+Highlands East;44;-79;797
+Alexander;50;-97;798
+Sainte-Claire;46;-71;799
+Perce;48;-65;800
+Saint-Jean-Port-Joli;47;-71;801
+East Hawkesbury;45;-75;802
+Bright;46;-68;803
+Penhold;52;-114;804
+Saint-Andre-d'Argenteuil;45;-75;805
+Saint-Come--Liniere;46;-71;806
+Saint-Sulpice;45;-74;807
+Marathon;48;-87;808
+Forestville;48;-70;809
+Inuvik;68;-134;810
+Richmond;45;-73;811
+Lake Cowichan;48;-125;812
+Sables-Spanish Rivers;46;-82;813
+Hillsburg-Roblin-Shell River;51;-102;814
+Port Hawkesbury;45;-62;815
+Three Hills;51;-114;816
+Lorette;49;-97;817
+Paspebiac;48;-66;818
+Saint-Thomas;46;-74;819
+Saint-Jean-Baptiste;45;-74;820
+Portneuf;46;-72;821
+Pictou;45;-63;822
+Tisdale;52;-105;823
+Lake of Bays;45;-80;824
+High Level;58;-118;825
+Gibbons;53;-114;826
+Bishops Falls;49;-56;827
+WestLake-Gladstone;50;-99;828
+Normandin;48;-73;829
+Saint-Alphonse-Rodriguez;46;-74;830
+Beausejour;50;-97;831
+Dalhousie;48;-67;832
+Saint-Alphonse-de-Granby;45;-73;833
+Lac du Bonnet;50;-97;834
+Clermont;47;-71;835
+Virden;49;-101;836
+Compton;45;-72;837
+White City;50;-105;838
+Ellison;49;-120;839
+Mont-Saint-Gregoire;45;-74;840
+Wellington;46;-65;841
+Merrickville;44;-76;842
+Saint-Liboire;45;-73;843
+Degelis;47;-69;844
+Morris;49;-98;845
+Saint-Alexis-des-Monts;46;-74;846
+Cap-Saint-Ignace;47;-71;847
+Saint-Anaclet-de-Lessard;48;-69;848
+Carman;49;-99;849
+Athens;44;-76;850
+Melancthon;44;-81;851
+Cap Sante;46;-72;852
+Harbour Grace;47;-54;853
+Houston;54;-127;854
+Adelaide-Metcalfe;42;-82;855
+Crossfield;51;-115;856
+Springdale;49;-57;857
+Fort Macleod;49;-114;858
+Athabasca;54;-114;859
+Enderby;50;-120;860
+Saint-Ferreol-les-Neiges;47;-71;861
+Laurentian Hills;46;-78;862
+Grand Valley;43;-81;863
+Senneterre;48;-78;864
+Sainte-Marie-Madeleine;45;-74;865
+Admaston/Bromley;45;-77;866
+Saint-Gabriel-de-Valcartier;46;-72;867
+North Algona Wilberforce;45;-78;868
+Kingston;45;-67;869
+Wawa;47;-85;870
+Saint-Christophe-d'Arthabaska;46;-72;871
+Sainte-Melanie;46;-74;872
+Ascot Corner;45;-72;873
+Horton;45;-77;874
+Saint-Michel;45;-74;875
+Botwood;49;-56;876
+Saint-Paul-d'Abbotsford;45;-73;877
+Saint-Marc-des-Carrieres;46;-73;878
+Stanstead;45;-73;879
+Sainte-Anne-de-Beaupre;47;-71;880
+Sainte-Luce;48;-69;881
+Saint-Gabriel;46;-74;882
+Rankin Inlet;62;-93;883
+Vanscoy No. 345;52;-108;884
+Cedar;49;-124;885
+Princeton;49;-121;886
+La Loche;56;-110;887
+Kingsclear;45;-67;888
+Ferme-Neuve;46;-76;889
+Thurso;45;-76;890
+Adstock;46;-72;891
+Shuniah;48;-89;892
+Enniskillen;42;-83;893
+Yamachiche;46;-73;894
+Saint-Maurice;46;-73;895
+Bonaventure;48;-66;896
+Val-Morin;46;-75;897
+Pohenegamook;47;-70;898
+Wakefield;46;-68;899
+Stoke;45;-72;900
+Sainte-Marguerite-du-Lac-Masson;46;-75;901
+Saint-Prime;48;-73;902
+Kuujjuaq;58;-69;903
+Atikokan;48;-92;904
+Grenville-sur-la-Rouge;45;-75;905
+North Cypress-Langford;49;-100;906
+Sainte-Anne-de-Sorel;46;-74;907
+Macamic;48;-79;908
+Sundre;51;-115;909
+Rougemont;45;-74;910
+Piedmont;45;-75;911
+Grimshaw;56;-118;912
+Lac-des-Ecorces;46;-76;913
+Northeastern Manitoulin and the Islands;45;-82;914
+Pelican Narrows;55;-103;915
+McDougall;45;-81;916
+Black Diamond;50;-115;917
+Saint-Pamphile;46;-70;918
+Bedford;45;-73;919
+Weedon-Centre;45;-72;920
+Lacolle;45;-74;921
+Saint-Gabriel-de-Brandon;46;-74;922
+Errington;49;-125;923
+Coalhurst;49;-113;924
+French River / Riviere des Francais;46;-81;925
+Arviat;61;-95;926
+Saint-David-de-Falardeau;48;-72;927
+Markstay;46;-81;928
+Spaniards Bay;47;-54;929
+Cocagne;46;-65;930
+Saint-Bruno;48;-72;931
+Chetwynd;55;-122;932
+Laurier-Station;46;-72;933
+Saint-Anicet;45;-75;934
+Saint-Mathieu-de-Beloeil;45;-74;935
+Cap-Chat;49;-67;936
+Sexsmith;55;-119;937
+Notre-Dame-de-Lourdes;46;-74;938
+Ville-Marie;47;-80;939
+Saint-Isidore;45;-74;940
+Shippegan;47;-65;941
+East Garafraxa;43;-81;942
+Pemberton;50;-123;943
+Unity;52;-110;944
+Rimbey;52;-115;945
+High Prairie;55;-117;946
+Turner Valley;50;-115;947
+Hanna;51;-112;948
+Fort Smith;60;-113;949
+Maria;48;-66;950
+Saint-Chrysostome;45;-74;951
+Greater Madawaska;45;-77;952
+Berwick;45;-65;953
+Saint-Damase;45;-73;954
+Lincoln;45;-67;955
+Disraeli;45;-72;956
+Sainte-Victoire-de-Sorel;45;-74;957
+Meadow Lake No. 588;54;-109;958
+Elkford;50;-115;959
+Georgian Bay;44;-80;960
+Saint-Alexandre;45;-74;961
+Herbertville;48;-72;962
+Moosomin;50;-102;963
+North Kawartha;44;-79;964
+Sainte-Thecle;46;-73;965
+Trenton;45;-63;966
+Fermont;52;-68;967
+Esterhazy;50;-103;968
+Wickham;45;-73;969
+La Presentation;45;-74;970
+Beaverlodge;55;-120;971
+Sainte-Catherine-de-Hatley;45;-73;972
+Saint-Basile;46;-72;973
+Saint-Raphael;46;-71;974
+Holyrood;47;-54;975
+Gracefield;46;-76;976
+Saint-Martin;45;-71;977
+Causapscal;48;-68;978
+Brigham;45;-73;979
+Perry;45;-80;980
+Port-Daniel--Gascons;48;-65;981
+Rosetown;51;-108;982
+Minnedosa;50;-100;983
+Labelle;46;-75;984
+Huntingdon;45;-75;985
+Hebertville;48;-72;986
+Black River-Matheson;48;-81;987
+Saint-Michel-des-Saints;46;-74;988
+Dufferin;49;-99;989
+Saint-Victor;46;-71;990
+Sicamous;50;-119;991
+Cap Pele;46;-65;992
+Kelsey;53;-102;993
+Killaloe, Hagarty and Richards;45;-78;994
+Alvinston;42;-82;995
+Dundurn No. 314;51;-107;996
+Saint-Ephrem-de-Beauce;46;-71;997
+Assiniboia;49;-106;998
+Temiscaming;46;-80;999
+Magrath;49;-113;1000
+Sainte-Genevieve-de-Berthier;46;-74;1001
+Buctouche;46;-65;1002
+Grand Manan;44;-67;1003
+Sainte-Madeleine;45;-74;1004
+Boissevain;49;-101;1005
+Scott;46;-72;1006
+Sainte-Croix;46;-72;1007
+Algonquin Highlands;45;-79;1008
+Valcourt;45;-73;1009
+Saint George;45;-67;1010
+Paquetville;47;-66;1011
+Saint-Dominique;45;-73;1012
+Clearwater;51;-121;1013
+Addington Highlands;45;-78;1014
+Lillooet;50;-122;1015
+Burin;47;-56;1016
+Grand Bank;47;-56;1017
+Lery;45;-74;1018
+Minto;46;-67;1019
+Rosthern No. 403;52;-107;1020
+Chase;50;-120;1021
+Mansfield-et-Pontefract;45;-77;1022
+Saint-Denis;45;-74;1023
+Outlook;51;-108;1024
+Mitchell;49;-97;1025
+Saint-Gedeon-de-Beauce;45;-71;1026
+Saint-Leonard-d'Aston;46;-73;1027
+Lunenburg;44;-65;1028
+Northesk;47;-67;1029
+Albanel;48;-73;1030
+St. Anthony;51;-56;1031
+Pessamit;49;-69;1032
+Maskinonge;46;-74;1033
+Saint-Charles-de-Bellechasse;46;-71;1034
+Fogo Island;49;-55;1035
+East Broughton;46;-72;1036
+Lantz;44;-64;1037
+Calmar;53;-114;1038
+Highlands;48;-124;1039
+Saint-Polycarpe;45;-75;1040
+Logy Bay-Middle Cove-Outer Cove;47;-53;1041
+Deschambault;46;-73;1042
+Canora;51;-103;1043
+Upper Miramichi;46;-67;1044
+Anmore;49;-123;1045
+Hardwicke;47;-66;1046
+Saint-Come;46;-74;1047
+Waskaganish;51;-79;1048
+Twillingate;49;-55;1049
+Saint-Quentin;47;-68;1050
+Lebel-sur-Quevillon;49;-77;1051
+Pilot Butte;50;-105;1052
+Nanton;50;-114;1053
+Pierreville;46;-73;1054
+New-Wes-Valley;49;-54;1055
+Pennfield Ridge;45;-67;1056
+West Interlake;50;-99;1057
+Biggar;52;-108;1058
+Britannia No. 502;53;-110;1059
+Kent;46;-68;1060
+Wabana;47;-53;1061
+Saint-Gilles;46;-72;1062
+Wendake;46;-72;1063
+Saint-Bernard;46;-72;1064
+Sainte-Cecile-de-Milton;45;-73;1065
+Saint-Roch-de-Richelieu;45;-74;1066
+Saint-Nazaire;48;-72;1067
+Saint-Elzear;46;-72;1068
+Hinchinbrooke;45;-75;1069
+Saint-Francois-Xavier-de-Brompton;45;-73;1070
+Papineauville;45;-76;1071
+Prairie View;50;-101;1072
+Cowichan Bay;48;-124;1073
+Saint-Ignace-de-Loyola;46;-74;1074
+Central Manitoulin;45;-83;1075
+Maple Creek;49;-110;1076
+Glovertown;48;-55;1077
+Tofield;53;-113;1078
+Madoc;44;-78;1079
+Upton;45;-73;1080
+Sainte-Anne-de-Sabrevois;45;-74;1081
+Logan Lake;50;-121;1082
+Sainte-Anne-de-la-Perade;46;-73;1083
+Saint-Damien-de-Buckland;46;-71;1084
+Baker Lake;64;-97;1085
+Saltair;48;-124;1086
+Pouch Cove;47;-53;1087
+Saint-Ferdinand;46;-72;1088
+Port McNeill;50;-128;1089
+Digby;44;-66;1090
+Manouane;47;-75;1091
+Saint-Gervais;46;-71;1092
+Neebing;48;-90;1093
+Redwater;53;-114;1094
+Saint-Alexandre-de-Kamouraska;47;-70;1095
+Saint-Marc-sur-Richelieu;45;-74;1096
+Mandeville;46;-74;1097
+Caplan;48;-66;1098
+Point Edward;42;-83;1099
+Allardville;47;-66;1100
+Waterville;45;-72;1101
+Saint-Damien;46;-74;1102
+Lac-Nominingue;46;-76;1103
+Obedjiwan;48;-75;1104
+Rama;51;-104;1105
+McCreary;50;-100;1106
+Deloraine-Winchester;49;-101;1107
+Oakland-Wawanesa;49;-100;1108
+Brenda-Waskada;49;-101;1109
+Russell-Binscarth;50;-102;1110
+Ellice-Archie;50;-102;1111
+Souris-Glenwood;49;-101;1112
+Riverdale;49;-101;1113
+Pembina;49;-99;1114
+Wallace-Woodworth;49;-101;1115
+Lorne;49;-99;1116
+Ethelbert;51;-101;1117
+Yellowhead;50;-101;1118
+Swan Valley West;51;-102;1119
+Grey;49;-99;1120
+Gilbert Plains;51;-101;1121
+Norfolk-Treherne;49;-99;1122
+Hamiota;50;-101;1123
+Emerson-Franklin;49;-98;1124
+Sifton;49;-101;1125
+Rossburn;50;-101;1126
+Grand View;51;-101;1127
+Grassland;49;-101;1128
+Louise;49;-99;1129
+Ste. Rose;51;-100;1130
+Cartwright-Roblin;49;-100;1131
+Mossey River;51;-100;1132
+Lakeshore;51;-100;1133
+Riding Mountain West;50;-102;1134
+Clanwilliam-Erickson;50;-100;1135
+Glenboro-South Cypress;49;-100;1136
+North Norfolk;49;-99;1137
+Reinland;49;-98;1138
+Minitonas-Bowsman;52;-101;1139
+Kippens;48;-59;1140
+Blucher;52;-107;1141
+Hatley;45;-72;1142
+Saint-Gedeon;48;-72;1143
+Kingsey Falls;45;-73;1144
+Provost;52;-111;1145
+Saint-Charles;46;-66;1146
+Mattawa;46;-79;1147
+Tumbler Ridge;55;-121;1148
+Terrasse-Vaudreuil;45;-74;1149
+L'Ascension-de-Notre-Seigneur;48;-72;1150
+Bow Island;49;-112;1151
+Barraute;48;-78;1152
+One Hundred Mile House;51;-122;1153
+Kedgwick;47;-68;1154
+Gambo;48;-55;1155
+Saint-Liguori;46;-74;1156
+Bonfield;46;-80;1157
+Pointe-Lebel;49;-69;1158
+Saint Mary;46;-65;1159
+Saint-Patrice-de-Sherrington;45;-74;1160
+Fox Creek;54;-117;1161
+Dawn-Euphemia;42;-83;1162
+Chapleau;47;-84;1163
+Saint-Esprit;45;-74;1164
+Westfield Beach;45;-67;1165
+Montague;46;-63;1166
+Mashteuiatsh;48;-73;1167
+Saint-Francois-du-Lac;46;-73;1168
+Eel River Crossing;48;-67;1169
+Saint-Fulgence;48;-71;1170
+Millet;53;-114;1171
+Vallee-Jonction;46;-71;1172
+Saint-Georges-de-Cacouna;47;-70;1173
+Lumsden No. 189;50;-105;1174
+Manitouwadge;49;-86;1175
+Wellington;43;-78;1176
+Swift Current No. 137;50;-108;1177
+Tofino;49;-126;1178
+Fort Qu'Appelle;50;-104;1179
+Vulcan;50;-114;1180
+Indian Head;50;-104;1181
+Petit Rocher;47;-66;1182
+Wabush;52;-67;1183
+Saint-Fabien;48;-69;1184
+Watrous;51;-106;1185
+North Frontenac;44;-77;1186
+Lac-Superieur;46;-75;1187
+Les Escoumins;48;-70;1188
+Richibucto;46;-65;1189
+Riviere-Beaudette;45;-75;1190
+Saint-Barthelemy;46;-74;1191
+Nisga'a;55;-130;1192
+Austin;45;-73;1193
+Saint-Mathieu;45;-74;1194
+Saint-Paul-de-l'Ile-aux-Noix;45;-74;1195
+Orkney No. 244;51;-103;1196
+Behchoko;62;-116;1197
+Saint-Joseph-de-Coleraine;45;-72;1198
+Saint-Cyprien-de-Napierville;45;-74;1199
+Sayabec;48;-68;1200
+Valleyview;55;-118;1201
+Deleage;46;-76;1202
+Potton;45;-73;1203
+Sainte-Beatrix;46;-74;1204
+Sainte-Justine;46;-71;1205
+Eastman;45;-73;1206
+Saint-Valerien-de-Milton;45;-73;1207
+Saint-Cuthbert;46;-74;1208
+Saint-Blaise-sur-Richelieu;45;-74;1209
+Middleton;44;-66;1210
+Maugerville;46;-67;1211
+Dalmeny;52;-107;1212
+Kamsack;51;-102;1213
+Lumsden;50;-105;1214
+Trinity Bay North;48;-54;1215
+Saint-Michel-de-Bellechasse;46;-71;1216
+Sainte-Angele-de-Monnoir;45;-74;1217
+Picture Butte;49;-113;1218
+Sacre-Coeur-Saguenay;48;-70;1219
+Saint-Louis;46;-66;1220
+Victoria;47;-54;1221
+Saint-Robert;45;-73;1222
+Armstrong;50;-98;1223
+Saint-Pierre-de-l'Ile-d'Orleans;46;-72;1224
+La Guadeloupe;45;-71;1225
+Saint Andrews;45;-68;1226
+Burns Lake;54;-126;1227
+Povungnituk;60;-78;1228
+Manners Sutton;45;-68;1229
+Gore;45;-75;1230
+Deseronto;44;-78;1231
+Lamont;53;-113;1232
+Chambord;48;-73;1233
+Dudswell;45;-72;1234
+Wynyard;51;-105;1235
+Cambridge Bay;69;-106;1236
+Saint-Narcisse;46;-73;1237
+Frontenac Islands;44;-77;1238
+Waswanipi;49;-76;1239
+Inukjuak;58;-79;1240
+Piney;49;-96;1241
+Komoka;42;-82;1242
+Saint-Zacharie;46;-71;1243
+Hemmingford;45;-74;1244
+Shelburne;43;-66;1245
+Saint-Clet;45;-75;1246
+Carberry;49;-100;1247
+Brighton;46;-68;1248
+Saint-Antoine;46;-65;1249
+Warfield;49;-118;1250
+Northampton;46;-68;1251
+Saint-Ours;45;-74;1252
+Stephenville Crossing;48;-59;1253
+Sainte-Anne-de-la-Pocatiere;47;-70;1254
+Ucluelet;48;-126;1255
+Saint-Placide;45;-75;1256
+Barriere;51;-121;1257
+Fisher;51;-98;1258
+Nipissing;46;-80;1259
+Sainte-Clotilde;45;-74;1260
+Shaunavon;49;-109;1261
+Wicklow;46;-68;1262
+Southesk;46;-67;1263
+Nouvelle;48;-67;1264
+Rosthern;52;-107;1265
+Yamaska;46;-73;1266
+Neguac;47;-66;1267
+Flat Rock;47;-53;1268
+Igloolik;69;-82;1269
+Grunthal;49;-97;1270
+Naramata;49;-120;1271
+Saint-Elie-de-Caxton;46;-73;1272
+Blumenort;49;-97;1273
+Balmoral;47;-67;1274
+Price;48;-69;1275
+Rosedale;50;-100;1276
+Saint-Jacques-le-Mineur;45;-74;1277
+Huron Shores;46;-84;1278
+Champlain;46;-73;1279
+Whitehead;49;-101;1280
+Saint-Antoine-sur-Richelieu;45;-74;1281
+Saint-Pacome;47;-70;1282
+Saint-Stanislas-de-Kostka;45;-75;1283
+Frontenac;45;-71;1284
+Stuartburn;49;-97;1285
+Yamaska-Est;46;-73;1286
+Sainte-Emelie-de-l'Energie;46;-74;1287
+Saint-Charles-sur-Richelieu;45;-74;1288
+Saint-Joseph-de-Sorel;46;-74;1289
+Nipigon;49;-89;1290
+Riviere-Blanche;48;-68;1291
+Sainte-Helene-de-Bagot;45;-73;1292
+Franklin Centre;45;-74;1293
+Harbour Breton;47;-56;1294
+Massey Drive;48;-58;1295
+Mille-Isles;45;-75;1296
+Wilton No. 472;53;-110;1297
+Lyster;46;-72;1298
+Oakview;50;-101;1299
+Balgonie;50;-105;1300
+Harrison Park;50;-101;1301
+Kensington;46;-64;1302
+Witless Bay;47;-53;1303
+Pond Inlet;72;-78;1304
+Royston;49;-125;1305
+Sainte-Clotilde-de-Horton;45;-73;1306
+Burford;43;-81;1307
+Fossambault-sur-le-Lac;46;-72;1308
+Saint-Benoit-Labre;46;-71;1309
+Coombs;49;-125;1310
+Terrace Bay;48;-88;1311
+Chapais;49;-75;1312
+Saint-Honore-de-Shenley;45;-71;1313
+Cleveland;45;-73;1314
+Macdonald, Meredith and Aberdeen Additional;46;-85;1315
+Messines;46;-77;1316
+Saint-Jean-de-Dieu;48;-70;1317
+Nakusp;50;-118;1318
+Florenceville;46;-68;1319
+Saint-Antoine-de-Tilly;46;-72;1320
+Lakeview;49;-120;1321
+Humbermouth;49;-59;1322
+Fort St. James;54;-125;1323
+Saint-Francois-de-la-Riviere-du-Sud;46;-71;1324
+Saint-Jacques;47;-69;1325
+Uashat;50;-67;1326
+Perth;46;-68;1327
+Eeyou Istchee Baie-James;52;-76;1328
+Shellbrook No. 493;53;-107;1329
+Shawville;45;-77;1330
+Saint-Lucien;45;-73;1331
+Lambton;45;-72;1332
+Saint-Laurent-de-l'Ile-d'Orleans;46;-72;1333
+Saint-Flavien;46;-72;1334
+Grenville;45;-75;1335
+Chute-aux-Outardes;49;-69;1336
+Sainte-Marcelline-de-Kildare;46;-74;1337
+Saint-Felix-de-Kingsey;45;-73;1338
+Upper Island Cove;47;-54;1339
+Glenelg;46;-66;1340
+Sainte-Elisabeth;46;-74;1341
+Ashcroft;50;-122;1342
+Clarkes Beach;47;-54;1343
+Saint-Bernard-de-Lacolle;45;-74;1344
+Belledune;47;-66;1345
+Saint-Guillaume;45;-73;1346
+Venise-en-Quebec;45;-74;1347
+Maliotenam;50;-67;1348
+Ripon;45;-76;1349
+Hilliers;49;-125;1350
+Saint-Joseph;47;-69;1351
+Saint-Paulin;46;-74;1352
+Bon Accord;53;-114;1353
+Saint David;45;-68;1354
+Saint-Albert;46;-73;1355
+Matagami;49;-78;1356
+Springfield;45;-66;1357
+Amherst;46;-75;1358
+Notre-Dame-du-Laus;46;-76;1359
+St. George;45;-67;1360
+Wembley;55;-120;1361
+Victoria;49;-99;1362
+Springbrook;52;-114;1363
+Saint-Tite-des-Caps;47;-71;1364
+Hudson Bay;52;-103;1365
+Pinawa;50;-96;1366
+Brudenell, Lyndoch and Raglan;45;-78;1367
+Carlyle;49;-103;1368
+Keremeos;49;-120;1369
+Val-Joli;45;-72;1370
+Gold River;49;-127;1371
+Saint-Casimir;46;-73;1372
+Bay Bulls;47;-53;1373
+Langham;52;-107;1374
+Frenchman Butte;53;-110;1375
+Gordon;46;-68;1376
+Kugluktuk;67;-116;1377
+Saint-Malachie;46;-71;1378
+Southampton;46;-68;1379
+Salluit;62;-76;1380
+Pangnirtung;66;-66;1381
+Saint-Louis-de-Gonzague;45;-74;1382
+Moosonee;51;-81;1383
+Englehart;47;-80;1384
+Saint-Urbain;47;-71;1385
+Tring-Jonction;46;-71;1386
+Nauwigewauk;45;-66;1387
+Pointe-a-la-Croix;48;-67;1388
+Denmark;47;-68;1389
+Saint-Joachim;47;-71;1390
+Torch River No. 488;53;-105;1391
+Saint-Theodore-d'Acton;45;-73;1392
+Grindrod;50;-120;1393
+L' Isle-Verte;48;-70;1394
+Harrison Hot Springs;49;-122;1395
+Palmarolle;48;-80;1396
+Henryville;45;-74;1397
+Sussex Corner;45;-66;1398
+Saint-Odilon-de-Cranbourne;46;-71;1399
+Pipestone;49;-102;1400
+Laurierville;46;-72;1401
+La Dore;48;-73;1402
+Lac-au-Saumon;48;-68;1403
+Wotton;45;-72;1404
+Prairie Lakes;49;-100;1405
+Elk Point;53;-111;1406
+Shellbrook;53;-107;1407
+Wemindji;53;-79;1408
+Cape Dorset;64;-77;1409
+Strong;45;-80;1410
+Lappe;48;-90;1411
+Riviere-Heva;48;-79;1412
+Fort-Coulonge;45;-77;1413
+Irishtown-Summerside;48;-58;1414
+Godmanchester;45;-75;1415
+Macklin;52;-110;1416
+Armour;45;-80;1417
+Saint-Simon;45;-73;1418
+St. Francois Xavier;49;-98;1419
+Tingwick;45;-72;1420
+Saint-Aubert;47;-71;1421
+Saint-Mathieu-du-Parc;46;-73;1422
+Wabasca;55;-114;1423
+Ragueneau;49;-69;1424
+Notre-Dame-du-Bon-Conseil;46;-73;1425
+Wasagamack;53;-95;1426
+Saint-Ubalde;46;-73;1427
+Creighton;54;-102;1428
+Fortune;47;-56;1429
+Faraday;45;-78;1430
+Berthier-sur-Mer;46;-71;1431
+Frampton;46;-71;1432
+Magnetawan;45;-80;1433
+New Carlisle;48;-66;1434
+Laird No. 404;52;-107;1435
+Petitcodiac;45;-66;1436
+Popkum;49;-122;1437
+Norton;45;-66;1438
+Canwood No. 494;53;-107;1439
+Wentworth-Nord;45;-75;1440
+Bas Caraquet;47;-65;1441
+Sainte-Ursule;46;-74;1442
+Dawson;64;-140;1443
+Nantes;45;-72;1444
+Lac-aux-Sables;46;-73;1445
+Stewiacke;45;-64;1446
+Taylor;56;-121;1447
+Rosser;49;-98;1448
+Estevan No. 5;49;-104;1449
+Falmouth;44;-65;1450
+Vaudreuil-sur-le-Lac;45;-75;1451
+Grahamdale;51;-99;1452
+Cardwell;45;-66;1453
+Two Hills;53;-112;1454
+Spiritwood No. 496;53;-108;1455
+Legal;53;-114;1456
+Amulet;48;-80;1457
+Herouxville;46;-73;1458
+Pointe-des-Cascades;45;-74;1459
+Weldford;46;-66;1460
+Reynolds;49;-96;1461
+St. Laurent;50;-98;1462
+Lions Bay;49;-124;1463
+L'Isle-aux-Allumettes;45;-78;1464
+Emo;48;-94;1465
+Sainte-Brigide-d'Iberville;45;-74;1466
+Les Eboulements;47;-71;1467
+Dunsmuir;49;-125;1468
+Pointe-aux-Outardes;49;-69;1469
+Smooth Rock Falls;49;-82;1470
+Oxbow;49;-103;1471
+Telkwa;54;-128;1472
+Gjoa Haven;68;-96;1473
+Sainte-Barbe;45;-75;1474
+Mayerthorpe;53;-116;1475
+Saint-Louis-du-Ha! Ha!;47;-69;1476
+Powerview-Pine Falls;50;-97;1477
+Baie Verte;49;-57;1478
+Saint-Edouard;45;-74;1479
+Charlo;48;-67;1480
+Hillsborough;45;-65;1481
+Bruederheim;53;-113;1482
+Burgeo;47;-58;1483
+Wadena;51;-104;1484
+Richmond;46;-68;1485
+Swan Hills;54;-116;1486
+Wilkie;52;-109;1487
+Saint-Leonard;47;-68;1488
+Riviere-Bleue;47;-70;1489
+Noyan;45;-74;1490
+Ile-a-la-Crosse;55;-108;1491
+Landmark;49;-97;1492
+Saint-Hugues;45;-73;1493
+Chisholm;46;-80;1494
+Sainte-Anne-du-Sault;46;-73;1495
+La Conception;46;-75;1496
+Saint-Valere;46;-73;1497
+Sorrento;50;-120;1498
+Lameque;47;-65;1499
+Thessalon;46;-84;1500
+L'Isle-aux-Coudres;47;-71;1501
+Nobleford;49;-114;1502
+Larouche;48;-72;1503
+South Qu'Appelle No. 157;50;-105;1504
+Elton;49;-100;1505
+Lorrainville;47;-80;1506
+Conestogo;43;-81;1507
+Upham;45;-66;1508
+St.-Charles;46;-81;1509
+Sainte-Lucie-des-Laurentides;46;-75;1510
+Saint-Alexis;45;-74;1511
+Gillam;56;-95;1512
+Roxton Falls;45;-73;1513
+Montcalm;49;-98;1514
+Clarendon;45;-77;1515
+Mervin No. 499;53;-109;1516
+Saint-Ludger;45;-71;1517
+Coldwell;50;-99;1518
+Saint-Arsene;47;-70;1519
+Racine;45;-73;1520
+Saint-Majorique-de-Grantham;45;-73;1521
+Saint-Zenon;46;-74;1522
+Saint-Armand;45;-74;1523
+Saint-Edouard-de-Lotbiniere;46;-72;1524
+Alonsa;50;-100;1525
+Listuguj;48;-67;1526
+Bowden;51;-115;1527
+St. Joseph;46;-84;1528
+Osler;52;-107;1529
+Saint-Hubert-de-Riviere-du-Loup;47;-70;1530
+Saint-Jude;45;-73;1531
+Dildo;47;-54;1532
+La Minerve;46;-75;1533
+Lanigan;51;-106;1534
+Lajord No. 128;50;-105;1535
+Moonbeam;49;-83;1536
+Notre-Dame-des-Pins;46;-71;1537
+Saint-Alban;46;-73;1538
+Saint-Pierre-les-Becquets;46;-73;1539
+Arborg;50;-98;1540
+Vauxhall;50;-113;1541
+Bayfield;43;-82;1542
+Beaver River;54;-110;1543
+Irricana;51;-114;1544
+Labrecque;48;-72;1545
+New Bandon;47;-66;1546
+Wemotaci;47;-74;1547
+Sainte-Henedine;46;-71;1548
+L'Anse-Saint-Jean;48;-71;1549
+Bassano;50;-113;1550
+Parrsboro;45;-65;1551
+Kaleden;49;-120;1552
+St. George's;48;-59;1553
+Fort Simpson;61;-122;1554
+Akwesasne;45;-75;1555
+L'Avenir;45;-73;1556
+Ignace;49;-92;1557
+Claremont;43;-80;1558
+Teulon;50;-98;1559
+Peel;46;-68;1560
+Musquash;45;-67;1561
+Notre-Dame-du-Portage;47;-70;1562
+St. Lawrence;46;-56;1563
+Oxford;45;-64;1564
+Minto-Odanah;50;-100;1565
+St. Alban's;47;-56;1566
+Saint James;45;-68;1567
+Saint-Norbert-d'Arthabaska;46;-72;1568
+Manning;56;-118;1569
+Glenella-Lansdowne;50;-100;1570
+Saint-Hilarion;47;-71;1571
+Saint-Simeon;48;-66;1572
+Saint-Barnabe;46;-73;1573
+Sainte-Felicite;48;-68;1574
+Two Borders;49;-102;1575
+Queensbury;45;-68;1576
+Bury;45;-72;1577
+Lac-Bouchette;48;-73;1578
+Saint-Lazare-de-Bellechasse;46;-71;1579
+Saint-Michel-du-Squatec;47;-69;1580
+Saint-Joachim-de-Shefford;45;-73;1581
+St-Pierre-Jolys;49;-97;1582
+Grand-Remous;46;-76;1583
+Saint-Gabriel-de-Rimouski;48;-69;1584
+Armstrong;47;-80;1585
+Rogersville;46;-66;1586
+Langenburg;50;-102;1587
+Sainte-Marie-Salome;45;-74;1588
+Moose Jaw No. 161;50;-106;1589
+Saint-Cyprien;47;-70;1590
+Maidstone;53;-110;1591
+Tres-Saint-Sacrement;45;-74;1592
+Battle River No. 438;52;-109;1593
+Miltonvale Park;46;-64;1594
+McAdam;45;-68;1595
+Saints-Anges;46;-71;1596
+Saint-Urbain-Premier;45;-74;1597
+Centreville-Wareham-Trinity;48;-54;1598
+Alberton;46;-65;1599
+Winnipeg Beach;50;-97;1600
+Sainte-Agathe-de-Lotbiniere;46;-72;1601
+Salmo;49;-118;1602
+Kipling;50;-103;1603
+Sagamok;46;-83;1604
+Trecesson;48;-79;1605
+Tara;44;-82;1606
+Grande-Vallee;49;-66;1607
+Bertrand;47;-66;1608
+Newcastle;47;-66;1609
+Mont-Carmel;47;-70;1610
+Saint Martins;45;-66;1611
+Saint-Eugene;45;-73;1612
+Notre-Dame-des-Neiges;48;-70;1613
+Saint-Andre;47;-68;1614
+Centreville;45;-65;1615
+Roland;49;-98;1616
+Saint-Leon-de-Standon;46;-71;1617
+Saint-Modeste;47;-70;1618
+Carnduff;49;-102;1619
+Carling;45;-81;1620
+Eckville;52;-115;1621
+Nain;56;-62;1622
+Hillsburgh;43;-81;1623
+Foam Lake;51;-104;1624
+Sainte-Sabine;45;-74;1625
+Saint-Maxime-du-Mont-Louis;49;-66;1626
+Blanc-Sablon;51;-58;1627
+Cobalt;47;-80;1628
+Gravelbourg;49;-107;1629
+South River;45;-80;1630
+Hudson Bay No. 394;53;-103;1631
+McKellar;45;-80;1632
+Frelighsburg;45;-73;1633
+Buffalo Narrows;55;-109;1634
+Ayer's Cliff;45;-73;1635
+Les Mechins;49;-67;1636
+Sainte-Marguerite;46;-71;1637
+Saint-Claude;45;-72;1638
+Air Ronge;55;-106;1639
+Chipman;46;-66;1640
+Girardville;49;-73;1641
+Saint-Bruno-de-Guigues;47;-80;1642
+Grenfell;50;-103;1643
+Dorchester;45;-65;1644
+South Algonquin;45;-79;1645
+Windermere;50;-116;1646
+Saint-Narcisse-de-Beaurivage;46;-72;1647
+Saint-Rene-de-Matane;48;-68;1648
+Sainte-Jeanne-d'Arc;48;-73;1649
+Plaisance;45;-76;1650
+Roxton-Sud;45;-73;1651
+St. Louis No. 431;52;-106;1652
+Youbou;48;-125;1653
+Duchess;50;-112;1654
+Saint-Frederic;46;-71;1655
+Viking;53;-112;1656
+Sioux Narrows-Nestor Falls;49;-95;1657
+Whitecourt;54;-116;1658
+Repulse Bay;66;-87;1659
+Montreal-Est;45;-74;1660
+King;44;-80;1661
+Regina Beach;50;-105;1662
+Saint-Patrice-de-Beaurivage;46;-72;1663
+Ootischenia;49;-118;1664
+Hensall;43;-82;1665
+Bentley;52;-115;1666
+Durham;47;-67;1667
+Sainte-Marthe;45;-75;1668
+Notre-Dame-du-Nord;47;-80;1669
+Pinehouse;55;-107;1670
+Saint-Aime-des-Lacs;47;-71;1671
+Lac-Drolet;45;-71;1672
+Preeceville;51;-103;1673
+Maple Creek No. 111;49;-110;1674
+Harbour Main-Chapel's Cove-Lakeview;47;-54;1675
+Saint-Wenceslas;46;-73;1676
+Weyburn No. 67;49;-104;1677
+Birch Hills;52;-106;1678
+Wedgeport;43;-66;1679
+Kerrobert;51;-110;1680
+Havelock;45;-66;1681
+Eston;51;-109;1682
+Sainte-Genevieve-de-Batiscan;46;-73;1683
+Saint-Justin;46;-74;1684
+Saint-Norbert;46;-74;1685
+Schreiber;48;-88;1686
+Trochu;51;-114;1687
+Botsford;46;-64;1688
+Riviere-Ouelle;47;-71;1689
+Greenwich;45;-67;1690
+Stukely-Sud;45;-73;1691
+Saint-Georges-de-Clarenceville;45;-74;1692
+Sainte-Therese-de-Gaspe;48;-65;1693
+Beachburg;45;-77;1694
+Desbiens;48;-72;1695
+Clyde River;70;-69;1696
+La Macaza;46;-75;1697
+Souris;46;-63;1698
+Kindersley No. 290;51;-110;1699
+Laird;46;-85;1700
+Falher;55;-118;1701
+Saint-Vallier;46;-71;1702
+Coleraine;45;-72;1703
+Melita;49;-101;1704
+Noonan;45;-67;1705
+Sainte-Petronille;46;-72;1706
+Delisle;51;-108;1707
+Bristol;45;-77;1708
+Mahone Bay;44;-65;1709
+Waldheim;52;-107;1710
+Saint-Sylvestre;46;-72;1711
+Taloyoak;69;-94;1712
+Onoway;53;-115;1713
+Saint-Stanislas;46;-73;1714
+Malpeque;46;-64;1715
+Plantagenet;45;-75;1716
+Longue-Rive;48;-70;1717
+Argyle;49;-100;1718
+Davidson;51;-106;1719
+Plaster Rock;46;-68;1720
+Wilmot;46;-68;1721
+Valemount;52;-120;1722
+Saint-Leonard-de-Portneuf;46;-72;1723
+Alberta Beach;53;-115;1724
+Saint-Narcisse-de-Rimouski;48;-69;1725
+Saint-Bonaventure;45;-73;1726
+Longlaketon No. 219;50;-105;1727
+Papineau-Cameron;46;-79;1728
+Assiginack;45;-82;1729
+Brebeuf;46;-75;1730
+Hudson Hope;56;-122;1731
+Prince;46;-85;1732
+Baie-du-Febvre;46;-73;1733
+Durham-Sud;45;-73;1734
+Melbourne;45;-73;1735
+Nipawin No. 487;53;-105;1736
+Duck Lake No. 463;52;-107;1737
+Oyen;51;-111;1738
