@@ -55,4 +55,4 @@
 
 # Примеры:
 
-![](https://github.com/BobNich/Labs-MEPHI-1Year-2Sem/blob/main/lab5/examples/Graph.png)
+![](https://github.com/BobNich/MEPhI-Labs-1Year-2Sem/blob/master/lab5/examples/Graph.png)
